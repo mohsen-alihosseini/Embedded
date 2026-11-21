@@ -1,0 +1,24 @@
+date: 2026-11-13T13:54:36+00:00
+Linux raspberrypi 6.12.47+rpt-rpi-v6 #1 Raspbian 1:6.12.47-1+rpt1 (2025-09-16) armv6l GNU/Linux
+PRETTY_NAME="Raspbian GNU/Linux 13 (trixie)"
+NAME="Raspbian GNU/Linux"
+VERSION_ID="13"
+VERSION="13 (trixie)"
+g++ (Raspbian 14.2.0-19+rpi1) 14.2.0
+Python 3.13.5
+CXXFLAGS: g++ -O2 -std=c++17 -Wall -Wextra
+modes=1d trials=10 reps=3 methods=sort insertion bisect histogram size1d=32 size2d=5
+input sha256:
+23c1b2379e85640c5d96ea012955b5bf6bdf62e28c5d161f896871fa4fa904d2  data/input.txt
+e34dafa62b6078e03e3902d576857df6d92db3f0be3824111116bae08bd10614  data/image_noisy.pgm
+governor: performance
+cur_freq_khz: 700000
+frequency(48)=700000000
+temp=36.9'C
+throttled=0x0
+               total        used        free      shared  buff/cache   available
+Mem:          437780      168148      171208        9672      160136      269632
+Swap:         437244       85860      351384
+after:
+temp=39.0'C
+throttled=0x0

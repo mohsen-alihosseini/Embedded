@@ -1,0 +1,320 @@
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=250937513 filter_ns=346143949 filter_cpu_ns=321317000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=250937513 filter_ns=326961062 filter_cpu_ns=316809000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=250937513 filter_ns=326158067 filter_cpu_ns=316486000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=802611238 filter_ns=4665481305 filter_cpu_ns=4366186000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=802611238 filter_ns=4480029384 filter_cpu_ns=4387995000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=802611238 filter_ns=4540331005 filter_cpu_ns=4428354000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=226014656 filter_ns=67979595 filter_cpu_ns=67898000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=226014656 filter_ns=64774615 filter_cpu_ns=64804000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=226014656 filter_ns=65373611 filter_cpu_ns=65080000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=828375063 filter_ns=8386805980 filter_cpu_ns=8212872000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=828375063 filter_ns=9943310608 filter_cpu_ns=9758835000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=828375063 filter_ns=8460013394 filter_cpu_ns=8291214000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=231617614 filter_ns=73499560 filter_cpu_ns=73020000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=231617614 filter_ns=70603577 filter_cpu_ns=70163000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=231617614 filter_ns=70666577 filter_cpu_ns=70125000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=875298756 filter_ns=2351063910 filter_cpu_ns=2310466000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=875298756 filter_ns=2420581488 filter_cpu_ns=2378369000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=875298756 filter_ns=2415422514 filter_cpu_ns=2361084000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=247601515 filter_ns=193646839 filter_cpu_ns=192927000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=247601515 filter_ns=188161871 filter_cpu_ns=187794000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=247601515 filter_ns=188442870 filter_cpu_ns=187905000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=871823727 filter_ns=45923562434 filter_cpu_ns=44838809000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=871823727 filter_ns=53137515712 filter_cpu_ns=51321340000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=871823727 filter_ns=45953756008 filter_cpu_ns=44874034000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=856557725 filter_ns=7939249092 filter_cpu_ns=7790982000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=856557725 filter_ns=7937649064 filter_cpu_ns=7760189000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=856557725 filter_ns=7963336869 filter_cpu_ns=7806683000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=252041444 filter_ns=69155573 filter_cpu_ns=68057000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=252041444 filter_ns=65327597 filter_cpu_ns=65090000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=252041444 filter_ns=65418597 filter_cpu_ns=65095000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=854748722 filter_ns=2405021146 filter_cpu_ns=2347689000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=854748722 filter_ns=2357441437 filter_cpu_ns=2304091000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=854748722 filter_ns=2423200028 filter_cpu_ns=2383030000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=243973492 filter_ns=73110548 filter_cpu_ns=72891000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=243973492 filter_ns=70611564 filter_cpu_ns=70136000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=243973492 filter_ns=70223566 filter_cpu_ns=70071000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=817586926 filter_ns=48464283661 filter_cpu_ns=47534246000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=817586926 filter_ns=56157463469 filter_cpu_ns=54098787000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=817586926 filter_ns=48476952351 filter_cpu_ns=47558821000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13404
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=228481567 filter_ns=193049789 filter_cpu_ns=192615000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=228481567 filter_ns=204054720 filter_cpu_ns=188581000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=228481567 filter_ns=188674817 filter_cpu_ns=187861000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=898652360 filter_ns=4523530604 filter_cpu_ns=4431116000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=898652360 filter_ns=4581814231 filter_cpu_ns=4488604000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=898652360 filter_ns=4593855147 filter_cpu_ns=4492205000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13440
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=189070813 filter_ns=316805010 filter_cpu_ns=316136000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=189070813 filter_ns=329229932 filter_cpu_ns=312856000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=189070813 filter_ns=313442031 filter_cpu_ns=312581000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=233767532 filter_ns=72747542 filter_cpu_ns=72775000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=233767532 filter_ns=70219559 filter_cpu_ns=70071000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=233767532 filter_ns=70279558 filter_cpu_ns=70135000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=938249104 filter_ns=2536511058 filter_cpu_ns=2480902000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=938249104 filter_ns=2536780053 filter_cpu_ns=2476426000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=938249104 filter_ns=2620841523 filter_cpu_ns=2564244000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=187929819 filter_ns=208120692 filter_cpu_ns=197502000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=187929819 filter_ns=189686807 filter_cpu_ns=188446000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=187929819 filter_ns=202621726 filter_cpu_ns=188026000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=859066584 filter_ns=44750176551 filter_cpu_ns=43889085000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=859066584 filter_ns=52076838580 filter_cpu_ns=50266314000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=859066584 filter_ns=44779403170 filter_cpu_ns=43936485000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=192207780 filter_ns=318775978 filter_cpu_ns=316969000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=192207780 filter_ns=328270917 filter_cpu_ns=312890000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=192207780 filter_ns=313907008 filter_cpu_ns=312768000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=827440749 filter_ns=4482238552 filter_cpu_ns=4404276000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=827440749 filter_ns=4529935244 filter_cpu_ns=4437035000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=827440749 filter_ns=4590083858 filter_cpu_ns=4481505000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=191010787 filter_ns=68859563 filter_cpu_ns=68180000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=191010787 filter_ns=65827582 filter_cpu_ns=65112000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=191010787 filter_ns=69137561 filter_cpu_ns=65444000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=858688546 filter_ns=8052110845 filter_cpu_ns=7864202000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=858688546 filter_ns=7947381496 filter_cpu_ns=7775946000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=858688546 filter_ns=8818920941 filter_cpu_ns=7892039000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=792733954 filter_ns=42905327806 filter_cpu_ns=42064798000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=792733954 filter_ns=39658900056 filter_cpu_ns=38075252000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=792733954 filter_ns=43403610855 filter_cpu_ns=42224658000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=187426570 filter_ns=193270525 filter_cpu_ns=192561000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=187426570 filter_ns=188666560 filter_cpu_ns=187908000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=187426570 filter_ns=188606561 filter_cpu_ns=187898000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=948206780 filter_ns=4751442846 filter_cpu_ns=4652520000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=948206780 filter_ns=4819817369 filter_cpu_ns=4727000000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=948206780 filter_ns=4808945496 filter_cpu_ns=4729856000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13440
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=193815529 filter_ns=333240473 filter_cpu_ns=316984000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=193815529 filter_ns=313914620 filter_cpu_ns=312763000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=193815529 filter_ns=319857575 filter_cpu_ns=313102000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=938114908 filter_ns=8560720363 filter_cpu_ns=8372120000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=938114908 filter_ns=8467948193 filter_cpu_ns=8295609000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=938114908 filter_ns=8604627294 filter_cpu_ns=8402702000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=203997468 filter_ns=68185487 filter_cpu_ns=67974000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=203997468 filter_ns=65672507 filter_cpu_ns=65135000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=203997468 filter_ns=65205510 filter_cpu_ns=65005000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=857148571 filter_ns=2421395845 filter_cpu_ns=2373660000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=857148571 filter_ns=2367884255 filter_cpu_ns=2321434000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=857148571 filter_ns=2445752681 filter_cpu_ns=2408577000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=195290537 filter_ns=72787455 filter_cpu_ns=72814000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=195290537 filter_ns=70065475 filter_cpu_ns=69929000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=195290537 filter_ns=70187474 filter_cpu_ns=70049000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=220852346 filter_ns=318619615 filter_cpu_ns=316751000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=220852346 filter_ns=329962531 filter_cpu_ns=313398000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=220852346 filter_ns=314255648 filter_cpu_ns=313002000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=880154424 filter_ns=4596153683 filter_cpu_ns=4517354000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=880154424 filter_ns=4677964108 filter_cpu_ns=4587032000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=880154424 filter_ns=4692623035 filter_cpu_ns=4597197000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13404
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=217158383 filter_ns=67991494 filter_cpu_ns=67942000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=217158383 filter_ns=80347402 filter_cpu_ns=65372000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=217158383 filter_ns=65925509 filter_cpu_ns=65119000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=866966559 filter_ns=8027642420 filter_cpu_ns=7867425000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=866966559 filter_ns=9635273620 filter_cpu_ns=9457980000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=866966559 filter_ns=8114179999 filter_cpu_ns=7964445000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=219218380 filter_ns=73112460 filter_cpu_ns=72888000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=219218380 filter_ns=69989482 filter_cpu_ns=70016000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=219218380 filter_ns=70233481 filter_cpu_ns=70090000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=844187771 filter_ns=2342906716 filter_cpu_ns=2303085000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=844187771 filter_ns=2315851924 filter_cpu_ns=2259634000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=844187771 filter_ns=2392749365 filter_cpu_ns=2353985000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=203113503 filter_ns=194472567 filter_cpu_ns=193494000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=203113503 filter_ns=188342612 filter_cpu_ns=187947000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=203113503 filter_ns=188090614 filter_cpu_ns=187760000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=799737159 filter_ns=41234810966 filter_cpu_ns=40025056000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=799737159 filter_ns=36802192996 filter_cpu_ns=36113395000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=799737159 filter_ns=41626266996 filter_cpu_ns=40005486000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=799845282 filter_ns=8058489425 filter_cpu_ns=7909373000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=799845282 filter_ns=9680358925 filter_cpu_ns=9494055000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=799845282 filter_ns=8156306873 filter_cpu_ns=8008298000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=188947654 filter_ns=68169514 filter_cpu_ns=67949000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=188947654 filter_ns=65017537 filter_cpu_ns=64889000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=188947654 filter_ns=65625533 filter_cpu_ns=65004000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=924954418 filter_ns=2469723428 filter_cpu_ns=2430601000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=924954418 filter_ns=2451983560 filter_cpu_ns=2393709000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=924954418 filter_ns=2528059025 filter_cpu_ns=2484906000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=217062457 filter_ns=73253480 filter_cpu_ns=73007000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=217062457 filter_ns=70500498 filter_cpu_ns=70115000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=217062457 filter_ns=70634498 filter_cpu_ns=70019000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=851835981 filter_ns=49933571267 filter_cpu_ns=47819139000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=851835981 filter_ns=44362596170 filter_cpu_ns=43506193000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=851835981 filter_ns=49423928382 filter_cpu_ns=47684647000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=194222650 filter_ns=192961658 filter_cpu_ns=192575000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=194222650 filter_ns=188816687 filter_cpu_ns=188165000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=194222650 filter_ns=188945686 filter_cpu_ns=187985000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=911922662 filter_ns=4574614213 filter_cpu_ns=4482231000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=911922662 filter_ns=4598591060 filter_cpu_ns=4518145000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=911922662 filter_ns=4799093681 filter_cpu_ns=4567059000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13440
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=224616441 filter_ns=332934689 filter_cpu_ns=321499000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=224616441 filter_ns=343379617 filter_cpu_ns=317415000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=224616441 filter_ns=322101764 filter_cpu_ns=315585000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=215746503 filter_ns=88126388 filter_cpu_ns=75293000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=215746503 filter_ns=83740419 filter_cpu_ns=71990000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=215746503 filter_ns=79511448 filter_cpu_ns=71550000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=849618107 filter_ns=2416752240 filter_cpu_ns=2363849000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=849618107 filter_ns=2475243838 filter_cpu_ns=2432452000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=849618107 filter_ns=2472331861 filter_cpu_ns=2402482000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=253200245 filter_ns=204856580 filter_cpu_ns=196539000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=253200245 filter_ns=213203522 filter_cpu_ns=191028000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=253200245 filter_ns=194696651 filter_cpu_ns=190202000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=870400990 filter_ns=71776732806 filter_cpu_ns=69637861000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=870400990 filter_ns=65091470005 filter_cpu_ns=63806682000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=870400990 filter_ns=71914625348 filter_cpu_ns=69668595000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=210328568 filter_ns=332067739 filter_cpu_ns=321191000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=210328568 filter_ns=343525661 filter_cpu_ns=317303000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=210328568 filter_ns=332753734 filter_cpu_ns=317373000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=994957229 filter_ns=5148623968 filter_cpu_ns=4749904000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=994957229 filter_ns=5020987847 filter_cpu_ns=4780128000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=994957229 filter_ns=5352353602 filter_cpu_ns=4843881000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=240866363 filter_ns=73979497 filter_cpu_ns=69585000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=240866363 filter_ns=68215536 filter_cpu_ns=65998000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=240866363 filter_ns=67891538 filter_cpu_ns=65670000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=834683328 filter_ns=8359982205 filter_cpu_ns=7982538000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=834683328 filter_ns=10900571982 filter_cpu_ns=9602275000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=834683328 filter_ns=8627700443 filter_cpu_ns=8087542000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=962524485 filter_ns=60771533199 filter_cpu_ns=54973264000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=962524485 filter_ns=52650854870 filter_cpu_ns=51677703000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=962524485 filter_ns=55707486957 filter_cpu_ns=54596745000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=227853468 filter_ns=195504685 filter_cpu_ns=193597000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=227853468 filter_ns=188446733 filter_cpu_ns=188000000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=227853468 filter_ns=188270733 filter_cpu_ns=187940000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=844870319 filter_ns=4409488352 filter_cpu_ns=4332292000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=844870319 filter_ns=4840185460 filter_cpu_ns=4439493000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=844870319 filter_ns=4641762799 filter_cpu_ns=4437508000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13404
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=227066474 filter_ns=317296867 filter_cpu_ns=316527000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=227066474 filter_ns=341632704 filter_cpu_ns=313160000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=227066474 filter_ns=477305792 filter_cpu_ns=314465000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=864796189 filter_ns=8407360519 filter_cpu_ns=8253574000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=864796189 filter_ns=9994474874 filter_cpu_ns=9804507000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=864796189 filter_ns=8725928410 filter_cpu_ns=8345088000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=186480748 filter_ns=72695512 filter_cpu_ns=67918000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=186480748 filter_ns=66334555 filter_cpu_ns=65312000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=186480748 filter_ns=66231555 filter_cpu_ns=65219000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=914627861 filter_ns=2523371063 filter_cpu_ns=2468502000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=914627861 filter_ns=2494864255 filter_cpu_ns=2452477000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=914627861 filter_ns=2595554581 filter_cpu_ns=2540885000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=186737747 filter_ns=72750512 filter_cpu_ns=72777000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=186737747 filter_ns=70443528 filter_cpu_ns=70167000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=186737747 filter_ns=73516507 filter_cpu_ns=70271000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=188696734 filter_ns=316948873 filter_cpu_ns=316244000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=188696734 filter_ns=315385883 filter_cpu_ns=313120000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=188696734 filter_ns=329206790 filter_cpu_ns=313185000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=805722595 filter_ns=4443843187 filter_cpu_ns=4353243000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=805722595 filter_ns=4525417643 filter_cpu_ns=4429891000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=805722595 filter_ns=4514280722 filter_cpu_ns=4417444000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13404
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=234471427 filter_ns=68213543 filter_cpu_ns=67847000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=234471427 filter_ns=65200563 filter_cpu_ns=64954000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=234471427 filter_ns=65242562 filter_cpu_ns=65092000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=817110522 filter_ns=8066537923 filter_cpu_ns=7903590000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=817110522 filter_ns=10445046995 filter_cpu_ns=9485294000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=817110522 filter_ns=8158210334 filter_cpu_ns=8003394000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=236245417 filter_ns=73066510 filter_cpu_ns=72926000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=236245417 filter_ns=69901531 filter_cpu_ns=69932000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=236245417 filter_ns=70661527 filter_cpu_ns=70117000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=838145386 filter_ns=2387971003 filter_cpu_ns=2332847000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=838145386 filter_ns=2319792461 filter_cpu_ns=2281417000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=838145386 filter_ns=2432972703 filter_cpu_ns=2374698000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=188964734 filter_ns=208705602 filter_cpu_ns=193548000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=188964734 filter_ns=188784736 filter_cpu_ns=188041000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=188964734 filter_ns=188957735 filter_cpu_ns=188412000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=829880448 filter_ns=47294711736 filter_cpu_ns=46391234000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=829880448 filter_ns=53399225254 filter_cpu_ns=52316174000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=829880448 filter_ns=48113209849 filter_cpu_ns=46407004000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=py mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=844284368 filter_ns=7991158693 filter_cpu_ns=7833652000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=844284368 filter_ns=7907261259 filter_cpu_ns=7750949000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=844284368 filter_ns=8024461483 filter_cpu_ns=7872045000 checksum=409225010 n_out=99969
+lang=py mode=1d method=insertion maxrss_kib=13440
+lang=cpp mode=1d method=insertion size=32 rep=0 n_in=100000 load_ns=187434750 filter_ns=68102546 filter_cpu_ns=67982000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=1 n_in=100000 load_ns=187434750 filter_ns=65169566 filter_cpu_ns=65029000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion size=32 rep=2 n_in=100000 load_ns=187434750 filter_ns=64964567 filter_cpu_ns=64887000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=insertion maxrss_kib=4004
+lang=py mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=781988785 filter_ns=2193961370 filter_cpu_ns=2140479000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=781988785 filter_ns=2243335042 filter_cpu_ns=2204730000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=781988785 filter_ns=2212864246 filter_cpu_ns=2174750000 checksum=409225010 n_out=99969
+lang=py mode=1d method=bisect maxrss_kib=13440
+lang=cpp mode=1d method=bisect size=32 rep=0 n_in=100000 load_ns=196693688 filter_ns=73189512 filter_cpu_ns=73055000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=1 n_in=100000 load_ns=196693688 filter_ns=70074533 filter_cpu_ns=70030000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect size=32 rep=2 n_in=100000 load_ns=196693688 filter_ns=70218532 filter_cpu_ns=70072000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=bisect maxrss_kib=4004
+lang=py mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=926113829 filter_ns=75094924850 filter_cpu_ns=73684785000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=926113829 filter_ns=72922120725 filter_cpu_ns=70490149000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=926113829 filter_ns=75355218893 filter_cpu_ns=73815489000 checksum=409225010 n_out=99969
+lang=py mode=1d method=histogram maxrss_kib=13440
+lang=cpp mode=1d method=histogram size=32 rep=0 n_in=100000 load_ns=244462375 filter_ns=193318714 filter_cpu_ns=192891000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=1 n_in=100000 load_ns=244462375 filter_ns=204735639 filter_cpu_ns=188867000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram size=32 rep=2 n_in=100000 load_ns=244462375 filter_ns=188408748 filter_cpu_ns=187867000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=histogram maxrss_kib=4004
+lang=py mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=807598631 filter_ns=4329656220 filter_cpu_ns=4238231000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=807598631 filter_ns=4384643856 filter_cpu_ns=4302916000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=807598631 filter_ns=4376519911 filter_cpu_ns=4297812000 checksum=409225010 n_out=99969
+lang=py mode=1d method=sort maxrss_kib=13440
+lang=cpp mode=1d method=sort size=32 rep=0 n_in=100000 load_ns=188405748 filter_ns=332566790 filter_cpu_ns=317233000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=1 n_in=100000 load_ns=188405748 filter_ns=313466916 filter_cpu_ns=312534000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort size=32 rep=2 n_in=100000 load_ns=188405748 filter_ns=314101912 filter_cpu_ns=312856000 checksum=409225010 n_out=99969
+lang=cpp mode=1d method=sort maxrss_kib=4004
