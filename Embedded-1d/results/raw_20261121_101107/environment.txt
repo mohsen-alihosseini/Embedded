@@ -1,0 +1,28 @@
+date: 2026-11-21T10:11:07+00:00
+model: Raspberry Pi Model B Plus Rev 1.2
+cpu:  ARMv6-compatible processor rev 7 (v6l)
+cores (nproc): 1
+ram total: 437780 KiB
+Linux raspberrypi 6.12.47+rpt-rpi-v6 #1 Raspbian 1:6.12.47-1+rpt1 (2025-09-16) armv6l GNU/Linux
+PRETTY_NAME="Raspbian GNU/Linux 13 (trixie)"
+NAME="Raspbian GNU/Linux"
+VERSION_ID="13"
+VERSION="13 (trixie)"
+g++ (Raspbian 14.2.0-19+rpi1) 14.2.0
+Python 3.13.5
+CXXFLAGS: g++ -O2 -std=c++17 -Wall -Wextra
+trials=20 reps=3 methods=sort insertion bisect histogram W=31
+input sha256: 23c1b2379e85640c5d96ea012955b5bf6bdf62e28c5d161f896871fa4fa904d2  data/input.txt
+governor: performance
+cur_freq_khz: 700000
+frequency(48)=700000000
+temp=39.0'C
+throttled=0x0
+empty interpreter peak RSS: 7660 KiB
+sys.getsizeof(1000): 16 bytes
+               total        used        free      shared  buff/cache   available
+Mem:          437780      172864      142212       10728      186784      264916
+Swap:         437244       85536      351708
+after:
+temp=40.6'C
+throttled=0x0
